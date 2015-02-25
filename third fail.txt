@@ -1,1 +1,3 @@
+Hello from trird fail.
+I'm cool file
 third fail
