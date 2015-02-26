@@ -1,6 +1,2 @@
 Hello from trird fail.
-I'm cool file
-third fail
-Good morning
-add text at 26.02.2015
-add more text 
+
