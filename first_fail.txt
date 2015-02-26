@@ -1,4 +1,4 @@
 first fail
 add a new line at second line.
+add text at 26.02.2015
 
-ffffff
